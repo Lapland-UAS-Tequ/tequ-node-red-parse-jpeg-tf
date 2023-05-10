@@ -7,7 +7,7 @@ Parse JPEG and extract metadata.
 
 Run the following command in your Node-RED user directory - typically `~/.node-red`
 
-        npm install tequ-node-red-parse-jpeg-tf
+        npm install Lapland-UAS-Tequ/tequ-node-red-parse-jpeg-tf
 
 ## Information
 
